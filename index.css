@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+	margin: 50px;
+	color: royalblue;
+}
+h2{
+	text-align: center;
+	margin: 50px;
+	color:seagreen;
+}
+h3{
+	text-align: center;
+	margin: 50px;
+
+}
